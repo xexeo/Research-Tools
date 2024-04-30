@@ -37,6 +37,10 @@ List of Tools for Research (by a Computer Science Researcher)
 1. [JotBot](https://jotbot.ai/)
 1. [Chat GPT (GPT4)](https://openai.com/gpt4)
 
+# Discurse analysis
+1. [MAXQDA (pay)](https://www.maxqda.com/)
+1. [Atlas.ti (pay)](https://atlasti.com/)
+
 # Writing
 1. [Paperpal](https://www.paperpal.com/)
 1. [QuillBot](https://www.quillbot.com/)
