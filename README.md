@@ -26,7 +26,7 @@ List of Tools for Research (by a Computer Science Researcher)
 1. [Inciteful](https://www.inciteful.xyz/)
 1. [Connected Papers](https://www.connectedpapers.com/)
 
-#. References Manager
+# References Manager
 1. [Zotero](https://www.zotero.org/)
 1. [Mendeley](https://www.mendeley.com/)
 1. [JabRef](https://www.jabref.org/)
